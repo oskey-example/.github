@@ -19,3 +19,9 @@ An example of a simple Todo app using Fibase (Authentication, Cloud Function and
 ### angular-public-hosting-oskey-example: An Angular single web app hosted on Firebase
 
 This repository can be found [here](https://github.com/oskey-example/angular-public-hosting-oskey-example
+
+An example of a Todo single web app using Angular hosted on Firebase.
+
+## Contributions
+
+Contributions are welcome, please look for guidelines on each repository.
